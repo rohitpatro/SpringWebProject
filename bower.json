@@ -1,0 +1,20 @@
+{
+  "name": "SpringWebProject",
+  "authors": [
+    "Rohit Kumar Patro <rohit.patro@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/webapp/theme/js",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
